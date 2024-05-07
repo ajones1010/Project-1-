@@ -1,4 +1,4 @@
-# CARDIO VASCULAR DISEASE STUDY
+# Trends and Patterns in Cardiovascular Diseases in the USA
 Team 2 Project Team Work
 
 Team members: Alyssa Jones, Yesmelin Perdomo, Joselynn Olmo, Marisol Trejo and Amanda Lor
