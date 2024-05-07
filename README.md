@@ -21,6 +21,7 @@ Sources:
 - https://medium.com/@pranavayyappan/understanding-and-preventing-cardiovascular-diseases-tips-for-a-healthy-heart-5fb4f867b9b7
 
 #Rough Breakdown of Tasks
+
 Completed Analysis Uploaded to GitHub  -Yesmelin
 Visualizations  - Amanda
 Analysis and Conclusion -Marisol
