@@ -1,4 +1,4 @@
-# CARDIO VASCULAR STUDY
+# CARDIO VASCULAR DISEASE STUDY
 Team 2 Project Team Work
 
 Team members: Alyssa Jones, Yesmelin Perdomo, Joselynn Olmo, Marisol Trejo and Amanda Lor
