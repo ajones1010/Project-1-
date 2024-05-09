@@ -16,9 +16,13 @@ The aim of our project is to uncover trends and patterns within our data in rela
 
 #Datasets to be Used
 Sources: 
-- https://www.kaggle.com/datasets/sahirmaharajj/u-s-chronic-disease-indicators
-- https://www.cdc.gov/heartdisease/about.htm
+- Heart Disease Prediction - dataset by informatics-edu
+- https://data.world/informatics-edu/heart-disease-prediction/workspace/file?filename=+Heart_Disease_Prediction.csv
+- [https://www.cdc.gov/heartdisease/about.htm](https://nccd.cdc.gov/DHDSPAtlas/?state=County&class=1&subclass=1&theme=1&filters=[[9,1],[2,1],[3,2],[4,1],[7,1]])
 - https://medium.com/@pranavayyappan/understanding-and-preventing-cardiovascular-diseases-tips-for-a-healthy-heart-5fb4f867b9b7
+- #maybe usful
+- https://data.world/johnsnowlabs/heart-disease-relative-risk/workspace/file?filename=Heart+Disease+Relative+Risk.csv
+- https://www.statista.com/topics/3484/cardiovascular-disease-in-the-us/#topicOverview
 
 #Rough Breakdown of Tasks
 
