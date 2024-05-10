@@ -1,18 +1,19 @@
-# Trends and Patterns in Cardiovascular Diseases in the USA
+#**Trends and Patterns in U.S. Chronic Diseases**
+
 Team 2 Project Team Work
 
-#Team members: 
-Alyssa Jones, Yesmelin Perdomo, Joselynn Olmo, Marisol Trejo and Amanda Lor
+**Team members:** Alyssa Jones, Yesmelin Perdomo, Joselynn Olmo, Marisol Trejo, and Amanda Lor
 
-#Project Description/Outline
-The aim of our project is to uncover trends and patterns within our data in relation to cardiovascular disease. We will examine trends in symptoms, lifestyles and habits, demographics, rates over time, as well as geographic locations.
+**Project Description/Outline**
+The aim of our project is to identify trends and patterns in chronic diseases in the U.S. by analyzing demographic data, rates over time, and geographic locations.
 
-#Research Questions to Answer
+**Research Questions to Answer**
+1) - How has the prevalence of chronic diseases changed from 2015 to 2022, and are there any significant trends or patterns over time?
+2) - Among chronic diseases, which specific type is the most prevalent in the population, and has its prevalence changed over time?
+3) - In which geographic regions or areas are chronic diseases most and least prevalent?
+4) - Is there a difference between men and women in the prevalence of chronic diseases, and what relationships and correlations exist with certain diseases?
 
-1)-How has the prevalence of heart disease changed over the past decade, and are there any significant trends or patterns in the occurrence of heart disease over time?
-2)-Among chronic diseases, which specific type is the most prevalent in the population, and has its prevalence changed over time?
-3)-In which geographic regions or areas are heart disease and other common chronic diseases most prevalent?
-4)-How do demographic factors such as age, gender, race/ethnicity, socioeconomic status, and lifestyle behaviors (e.g., smoking, diet, physical activity) impact the likelihood of developing heart disease and other chronic diseases?
+
 
 #Datasets to be Used
 Sources: 
