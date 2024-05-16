@@ -22,8 +22,11 @@ Sources:
 #Rough Breakdown of Tasks
 
 Question 1: Yesmelin
+
 Question 2: Marisol
+
 Question 3: Amanda
+
 Question 4: Alyssa
 
 Introduction & conclusion : All of the team members
